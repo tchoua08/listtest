@@ -1,0 +1,95 @@
+.my-row {
+ margin:2px;
+}
+
+.my-col{
+  margin: 15px;
+}
+
+.col-imageproduct{
+  background: #FFFFFF;
+  border-radius: 14px;
+  height: 130px;
+  width: 130px;
+}
+
+.col-productid{
+background: #FFFFFF;
+border-radius: 14px;
+height: 130px;
+width: 130px;
+
+
+}
+
+.productid{
+
+  font-family: Avenir;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 900;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  color:#888CA9;
+
+}
+
+.imageproduct{
+  border-radius: 10px;
+  height: 110px;
+  width: 110px;
+
+}
+
+.col-productdetail{
+  background: #FFFFFF;
+  border-radius: 14px;
+}
+
+.col-productprice{
+  font-family: Avenir;
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 36px;
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+color: #0FCB5A;
+}
+
+.col-faicon{
+  background: #DFE1E6;
+  height: 20px;
+  border-radius: 0px;
+
+}
+.producttitle{
+  font-family: Avenir;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #3F4457;
+
+
+}
+.timenow{
+font-family: Avenir;
+font-size: 10px;
+font-style: normal;
+font-weight: 800;
+line-height: 11px;
+text-align: center;
+color: #A9B0BE;
+height: 11px;
+width: 42px;
+border-radius: 3px;
+background: #c0c2c5;
+
+
+}

@@ -1,0 +1,41 @@
+<div class="row  my-row">
+
+  <div class="col-2  text-center my-col col-productid">
+    <span class="productid">
+      {{ product.productId }}
+    </span>
+  </div>
+
+  <div class="col-2  text-center my-col col-imageproduct">
+    <img class="imageproduct" src='{{product.imagePath}}' width="60px">
+  </div>
+
+
+  <div class="col-md-7  my-col col-productdetail">
+
+    <div class="row justify-content-around my-row " >
+     <span class="producttitle">
+      {{product.title}}
+     </span>
+     <span class="timenow">{{product.createdAt | pipes}}</span>
+     <span>ico</span>
+     <span>ico</span>
+     <span>ico</span>
+     <span>ico</span>
+     <span>ico</span>
+    </div>
+    <div class="row justify-content-end my-row " >
+      <div class="col-md-2 col-sm-6 my-col col-productprice">
+        ${{product.price}}
+      </div>
+      <div class="col-md-8 col-sm-6 my-col ">
+
+      </div>
+
+    </div>
+    <div class="row my-row">ico</div>
+
+
+  </div>
+
+</div>
