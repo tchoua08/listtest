@@ -9,7 +9,7 @@ export class ProductServiceService {
   productList : Product[]=[
   {
     productId: '1',
-    imagePath: '../assets/products/product1.PNG',
+    imagePath: '../assets/products/product1.png',
     rating: 4.9,
     percentage: 99,
     tags: '1.2K',
@@ -20,7 +20,7 @@ export class ProductServiceService {
   },
   {
     productId: '2',
-    imagePath: '../assets/products/product2.PNG',
+    imagePath: '../assets/products/product2.png',
     rating: 4.9,
     percentage: 99,
     tags: '1.2K',
