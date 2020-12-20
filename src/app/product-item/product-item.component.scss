@@ -87,7 +87,9 @@ line-height: 11px;
 color: #A9B0BE;
 height: 11px;
 width: 42px;
-border-radius: 3px;
+padding: 5px;
+border-radius: 9px;
+text-align: center;
 background: #F1F2F6;
 
 }
@@ -111,11 +113,14 @@ bottom: 23.85%;
   font-size: 10px;
   font-style: normal;
   font-weight: 800;
-  line-height: 11px;
-  height: 11px;
-  width: 42px;
-  border-radius: 3px;
-  background: #F1F2F6;
+  border-radius: 9px;
+  background: #F2E6FF;
+  text-align: center;
+  height: 19px;
+   width: 56px;
+   padding: 5px;
+   
+
 }
 .ico3{
   background: #F7E1E1;
@@ -135,7 +140,7 @@ bottom: 23.85%;
 .ico5{
   text-align: center;
   border-radius: 11px;
-  background-color: #F7E1E1;
+  background-color: #DBFAFF ;
   padding-bottom: 5px;
 
 }

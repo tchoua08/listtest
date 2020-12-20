@@ -24,8 +24,8 @@ export class ProductServiceService {
     rating: 4.9,
     percentage: 99,
     tags: '1.2K',
-    title: 'Xiaomi Wifi Extender',
-    price: 12,
+    title: 'Grundig',
+    price: 60,
     ePacket: true,
     createdAt: new Date()
     }
